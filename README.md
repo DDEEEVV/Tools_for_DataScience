@@ -16,3 +16,5 @@
 * Identify the languages, tools, and data used by data scientists.
 * Access and explore data sets in the Data Asset Exchange (DAX).
 * Examine deep learning models on the Model Asset Exchange (MAX) and interact with an image-detection deep learning model.
+
+![ Tools for Data Science](Badge/tools_for_DataScience_badge.png)
